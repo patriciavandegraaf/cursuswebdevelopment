@@ -1,0 +1,19 @@
+h1 {
+    color:darkslategrey;
+}
+.yellow-border {
+    border:2px solid yellow;
+}
+#lightgrey-background {
+    background-color:lightgrey;
+}
+#white-background {
+    background-color: white;
+}
+#whitesmoke-background {
+    background-color:whitesmoke;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
