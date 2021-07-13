@@ -1,0 +1,31 @@
+h1,h2 {
+    color:darkslategrey;
+}
+
+#lightgrey-background {
+    background-color:lightgrey;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+header {
+    border:2px solid yellow;
+    margin:20px
+}    
+
+h2 {
+    border:2px solid yellow;
+    margin:20px
+}
+footer {
+    border:2px solid yellow;
+    margin:20px
+}
+h2,h1 {
+     padding-left:50px
+}
+li {
+    display:inline;
+}
