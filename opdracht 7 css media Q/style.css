@@ -1,0 +1,33 @@
+h1,h2 {
+    color:darkslategrey;
+}
+
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    background-color: lightgrey;
+}
+.yellow-border {
+    border:2px solid yellow;
+    margin:20px;
+    padding:10px;
+}
+.center {
+    margin: 0 auto;
+    width: 500px;
+}
+.navigation li {
+    display:inline
+}
+
+@media  (max-width: 1024px) {
+    
+    body {
+        
+      background-color: lightblue;
+      color: purple;
+      font-size: 10px;
+      line-height: 20px;
+    }
+ }
